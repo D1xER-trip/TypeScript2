@@ -1,0 +1,1 @@
+Запуск:node stationery.js
